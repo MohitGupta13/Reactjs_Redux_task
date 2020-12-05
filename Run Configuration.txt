@@ -1,0 +1,1 @@
+clean test -Dapp.home=https://localhost:8443/gicm -Dtest=LoginPageTest -Dbrowser=Chrome -Ddeploy_type=LOCAL -DskipTests=false
